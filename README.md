@@ -1,5 +1,3 @@
-# projetc-sh-discovery-supervisor
-
 # Discovery for Zabbix Supervisor
 
 Code to perform the discovery of how many Supervisor exists on the machines by bringing them by name and by mounting on a JSON.
